@@ -31,4 +31,4 @@ Once the source code is available, you’ll be able to:
 Want to chat, share ideas, or get updates? Join our **[Discord](https://discord.gg/Rs3yyHJtmn)**. community
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU AGPL-3.0](LICENSE).
