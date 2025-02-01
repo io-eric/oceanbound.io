@@ -28,7 +28,7 @@ Once the source code is available, you’ll be able to:
 - Discuss ideas and optimizations  
 
 ## Join the Community
-Want to chat, share ideas, or get updates? Join our **Discord** community: [Discord Invite Link](https://discord.gg/Rs3yyHJtmn).
+Want to chat, share ideas, or get updates? Join our **[Discord](https://discord.gg/Rs3yyHJtmn)**. community
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
