@@ -15,9 +15,10 @@ Oceanbound.io is designed to run on multiple platforms, including:
 
 ## Technologies Used  
 - **C** (Core game logic for both client and server)
-- **SDL3** (Rendering, input handling)  
-- **Emscripten** (Web compatibility)  
-- **WebSockets** (Network communication)
+- **SDL3** (Window management, input handling)  
+- **Skia** (High-performance 2D graphics rendering)  
+- **Emscripten** (Web compatibility, compiling C code to WebAssembly)  
+- **uWebSockets** (Network communication)
 - **Node.js** (Load balancing and server management)
 - **HTML & CSS** (Web interface)
 
