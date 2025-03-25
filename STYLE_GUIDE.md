@@ -15,7 +15,6 @@ This style guide outlines the conventions used in this C++ project to maintain c
 
 - **Functions and variables**: Use `snake_case` (e.g., `calculate_sum`, `total_count`).
 - **Structs and classes**: Use `PascalCase` (e.g., `MyClass`, `DataStructure`).
-- **Constants**: Prefix with `k_` and use `snake_case` (e.g., `k_max_size`, `k_default_value`).
 - **Member variables**: Use `snake_case_` suffix (e.g., `health_`, `position_x_`).
 - **Namespaces**: Use `snake_case` (e.g., `project_namespace`).
 - **Macros**: Use `UPPER_CASE` (e.g., `MAX_VALUE`, `DEBUG_MODE`).
