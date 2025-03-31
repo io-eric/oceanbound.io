@@ -55,14 +55,13 @@ Skill rarity, denoted as Common, Uncommon, Rare, or Epic, directly correlates wi
 **🛡️ Seawarden (Defensive Path)**
 
 **Tier 1: Basic Protection**
-
 * *🟢 **Hull Strength***: Maximum health increased by 10%.
 * *🟣 **Hull Reinforcement***: Reduces ramming damage taken by 15%.
 * *🔵 **Health Regeneration***: Health regeneration rate increased by 5%.
 * *🧿 **Placeholder***: Placeholder.
 
 **Tier 2: Tough as Nails**
-* *🟢 **Braced Impact**: Reduces damage taken from large projectiles by 10%.
+* *🟢 **Braced Impact***: Reduces damage taken from large projectiles by 10%.
 * *🔵 **Armor Plating***: Damage reduction increased by 10%.
 * *🟣 **Countermeasures***: Chance to resist projectiles.
 * *🧿 **Placeholder***: Placeholder.
@@ -74,7 +73,7 @@ Skill rarity, denoted as Common, Uncommon, Rare, or Epic, directly correlates wi
 * *🧿 **Stealth Dive***: Submerge after 30 seconds of no damage, reduced speed while submerged.
 
 **Tier 4: Juggernaut**
-* *🟢 **Adaptive Shields**: Gain a temporary shield after taking a large amount of damage.
+* *🟢 **Placeholder***: Placeholder.
 * *🔵 **Immune to Debuffs***: Immunity to slowing effects and debuffs.
 * *🟣 **Placeholder***: Placeholder.
 * *🧿 **Reinforced Hull***: Automatic 5% health repair every 5 seconds for 15 seconds at critical damage.
