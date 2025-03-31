@@ -1,5 +1,7 @@
 # ⚓ Skill Tree System ⚓
+*Work in Progress - Not Final*  
 
+> **Note:** Rarities may be rebalanced, skills might be removed/changed, and new skills will be added.  
 ---
 
 **Overview**
@@ -10,16 +12,14 @@ Skill rarity, denoted as Common, Uncommon, Rare, or Epic, directly correlates wi
 
 ---
 
-**Rarity Distribution**
+## 📊 Rarity Probabilities  
 
-Skill selection is governed by the following rarity distribution:
-
-| Rarity     | Probability |
-|------------|-------------|
-| ⚪ Common     | 40%         |
-| 🟢 Uncommon   | 30%         |
-| 🔵 Rare       | 20%         |
-| 🟣 Epic       | 10%         |
+| Tier | Common (🟢) | Uncommon (🔵) | Rare (🟣) | Epic (🧿) |  
+|------|------------|--------------|----------|----------|  
+| **1** | 60%        | 30%          | 8%       | **2%**   |  
+| **2** | 45%        | 35%          | 15%      | **5%**   |  
+| **3** | 30%        | 40%          | 22%      | **8%**   |  
+| **4** | 15%        | 45%          | 30%      | **10%**  |  
 
 ---
 
@@ -27,23 +27,28 @@ Skill selection is governed by the following rarity distribution:
 
 **Tier 1: Basic Cannoneer**
 
-* *⚪ **Cannon Shooting Distance***: Projectile range increased by 10%.
-* *🟢 **Cannon Reload Speed***: Reload time reduced by 10%.
+* *🟢 **Cannon Shooting Distance***: Projectile range increased by 10%.
+* *🔵 **Cannon Reload Speed***: Reload time reduced by 10%.
+* *🟣 **Placeholder***: Placeholder.
+* *🧿 **Placeholder***: Placeholder.
 
 **Tier 2: Sharpshooter**
-
-* *⚪ **Increased Damage***: Cannon damage increased by 15%.
-* *🔵 **High-Velocity Rounds***: Projectile speed increased by 25%.
+* *🟢 **Placeholder***: Placeholder.
+* *🔵 **Increased Damage***: Cannon damage increased by 15%.
+* *🟣 **High-Velocity Rounds***: Projectile speed increased by 25%.
+* *🧿 **Placeholder***: Placeholder.
 
 **Tier 3: Heavy Artillery**
-
-* *🟢 **Armor Piercing Rounds***: Bonus damage against enemy armor.
+* *🟢 **Placeholder***: Placeholder.
+* *🔵 **Armor Piercing Rounds***: Bonus damage against enemy armor.
 * *🟣 **A Second Cannon***: Gain an additional cannon, ship size increased.
+* *🧿 **Placeholder***: Placeholder.
 
 **Tier 4: Master Cannoneer**
-
+* *🟢 **Placeholder***: Placeholder.
 * *🔵 **Rapid Fire***: Reload speed reduced by 50% when health is above 80%.
 * *🟣 **Even More Cannons!***: Gain two additional side cannons.
+* *🧿 **Focused Fire***: Successive hits on the same target increase damage by 5%, stacking up to 25%.
 
 ---
 
@@ -51,47 +56,56 @@ Skill selection is governed by the following rarity distribution:
 
 **Tier 1: Basic Protection**
 
-* *⚪ **Hull Strength***: Maximum health increased by 10%.
-* *🟢 **Health Regeneration***: Health regeneration rate increased by 5%.
+* *🟢 **Hull Strength***: Maximum health increased by 10%.
+* *🟣 **Hull Reinforcement***: Reduces ramming damage taken by 15%.
+* *🔵 **Health Regeneration***: Health regeneration rate increased by 5%.
+* *🧿 **Placeholder***: Placeholder.
 
 **Tier 2: Tough as Nails**
-
-* *🟢 **Armor Plating***: Damage reduction increased by 10%.
-* *🔵 **Countermeasures***: Chance to resist projectiles.
+* *🟢 **Braced Impact**: Reduces damage taken from large projectiles by 10%.
+* *🔵 **Armor Plating***: Damage reduction increased by 10%.
+* *🟣 **Countermeasures***: Chance to resist projectiles.
+* *🧿 **Placeholder***: Placeholder.
 
 **Tier 3: Unbreakable**
-
-* *⚪ **Damage Resistance***: Additional 15% damage reduction below 50% health.
-* *🔵 **Stealth Dive***: Submerge after 30 seconds of no damage, reduced speed while submerged.
+* *🟢 **Damage Resistance***: Additional 15% damage reduction below 50% health.
+* *🔵 **Placeholder***: Placeholder.
+*  🟣 **Placeholder***: Placeholder.
+* *🧿 **Stealth Dive***: Submerge after 30 seconds of no damage, reduced speed while submerged.
 
 **Tier 4: Juggernaut**
-
-* *🟢 **Immune to Debuffs***: Immunity to slowing effects and debuffs.
-* *🟣 **Reinforced Hull***: Automatic 5% health repair every 5 seconds for 15 seconds at critical damage.
+* *🟢 **Adaptive Shields**: Gain a temporary shield after taking a large amount of damage.
+* *🔵 **Immune to Debuffs***: Immunity to slowing effects and debuffs.
+* *🟣 **Placeholder***: Placeholder.
+* *🧿 **Reinforced Hull***: Automatic 5% health repair every 5 seconds for 15 seconds at critical damage.
 
 ---
 
 **⛵ Navigator (Movement Path)**
 
 **Tier 1: Enhanced Movement**
-
-* *⚪ **Speed Boost***: Base movement speed increased by 10%.
-* *🟢 **Tighter Turning Radius***: Turning radius reduced.
+* *🟢 **Sail Trim**: Increases acceleration rate by 15%.
+* *🔵 **Speed Boost***: Base movement speed increased by 10%.
+* *🟣 **Tighter Turning Radius***: Turning radius reduced.
+* *🧿 **Placeholder***: Placeholder.
 
 **Tier 2: Swift Maneuvers**
-
-* *🔵 **High-Torque Propellers***: Speed boost after sharp turns.
-* *🟢 **Island Hopper***: Increased speed near islands.
+* *🟢 **Placeholder***: Placeholder.
+* *🟣 **High-Torque Propellers***: Speed boost after sharp turns.
+* *🔵 **Island Hopper***: Increased speed near islands.
+* *🧿 **Placeholder***: Placeholder.
 
 **Tier 3: Oceanic Flow**
-
-* *🟢 **Wind Push***: Increased speed with current or wind.
-* *🔵 **Keen Navigator***: Increased map vision radius.
+* *🟢 **Placeholder***: Placeholder.
+* *🔵 **Wind Push***: Increased speed with current or wind.
+* *🟣 **Keen Navigator***: Increased map vision radius.
+* *🧿 **Placeholder***: Placeholder.
 
 **Tier 4: Master Navigator**
-
-* *🟣 **Sea Sprinter***: Temporary invulnerability and speed boost (30-second cooldown).
-* *🔵 **Slick Waters***: Reduced friction during evasive maneuvers.
+* *🟢 **Placeholder***: Placeholder.
+* *🔵 **Placeholder***: Placeholder.
+* *🟣 **Slick Waters***: Reduced friction during evasive maneuvers.
+* *🧿 **Sea Sprinter***: Temporary invulnerability and speed boost (30-second cooldown).
 
 ---
 
