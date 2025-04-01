@@ -83,7 +83,7 @@ Skill rarity, denoted as Common, Uncommon, Rare, or Epic, directly correlates wi
 **⛵ Navigator (Movement Path)**
 
 **Tier 1: Enhanced Movement**
-* *🟢 **Sail Trim**: Increases acceleration rate by 15%.
+* *🟢 **Sail Trim***: Increases acceleration rate by 15%.
 * *🔵 **Speed Boost***: Base movement speed increased by 10%.
 * *🟣 **Tighter Turning Radius***: Turning radius reduced.
 * *🧿 **Placeholder***: Placeholder.
